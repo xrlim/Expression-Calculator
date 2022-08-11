@@ -4,7 +4,7 @@
 | Layer       | Stack |
 | ----------- | ----------- |
 | UI      | Console       |
-| Api   | NET Core 6        |
+| .NET Version   | NET Core 6        |
 | Test   | NUnit        |
 
 
